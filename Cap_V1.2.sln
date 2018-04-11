@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap_V1.2", "Cap_V1.2.csproj", "{0575EF87-2D88-5775-19FE-A462BF25C0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap_V1.2.Editor", "Cap_V1.2.Editor.csproj", "{39D8418C-0F9D-2320-04DF-63B8DD38B9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0575EF87-2D88-5775-19FE-A462BF25C0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0575EF87-2D88-5775-19FE-A462BF25C0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0575EF87-2D88-5775-19FE-A462BF25C0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0575EF87-2D88-5775-19FE-A462BF25C0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D8418C-0F9D-2320-04DF-63B8DD38B9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D8418C-0F9D-2320-04DF-63B8DD38B9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D8418C-0F9D-2320-04DF-63B8DD38B9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D8418C-0F9D-2320-04DF-63B8DD38B9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
