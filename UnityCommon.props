@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Cap_V1.2</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Holo project\3d dle\Cap\Cap\project\Cap_V1.2\Cap_V1.2\VS2017\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Holo project\3d dle\Cap\Cap\project\Cap_V1.2\Cap_V1.2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
